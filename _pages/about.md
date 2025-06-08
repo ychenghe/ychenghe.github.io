@@ -51,7 +51,7 @@ Guangcheng Chen, **Yicheng He**, Li He, Hong Zhang
 <div style="display: flex; align-items: center; margin-bottom: 1.5em;">
   <!-- 左侧视频 -->
   <div style="flex: 0 0 auto;">
-    <video width="320" height="180" controls autoplay loop muted>
+    <video width="256" height="144" controls autoplay loop muted>
       <source src="images/rm.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
