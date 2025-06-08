@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I'm a second-year M.Sc. student at [SUSTech](https://www.sustech.edu.cn/en/), advised by [Prof. Hong Zhang](https://scholar.google.com/citations?user=J7UkpAIAAAAJ&hl=zh-CN&oi=ao).
 
-I am a robotics perception researcher, dedicated to enabling robots to better perceive 3D environments, thereby improving their performance in downstream tasks such as scene understanding, navigation, and grasping. To achieve this goal, I am currently focused on: (a) SLAM; (b) differentiable dense map representations.
+I am a robotics perception researcher, dedicated to enabling robots to better perceive 3D environments, thereby improving their performance in downstream tasks such as scene understanding, navigation, and grasping. To achieve this goal, I am currently focused on: (a) **SLAM**; (b) **Differentiable dense map representations**.
 
 # 📝 Publications 
 
