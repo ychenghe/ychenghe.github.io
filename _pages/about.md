@@ -22,15 +22,27 @@ I am a robotics perception researcher, dedicated to enabling robots to better pe
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/factor_graph.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints](https://arxiv.org/abs/2410.08780)
+[Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints](https://arxiv.org/pdf/2410.08780)
 
 **Yicheng He**, Guangcheng Chen, Hong Zhang
 
 - Identified the lack of trajectory smoothness in NeRF-SLAM due to missing explicit constraints.
 - Proposed a B-spline trajectory representation and jointly optimized it with NeRF to achieve smooth camera motion.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/factor_graph.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pisr: Polarimetric neural implicit surface reconstruction for textureless and specular objects](https://arxiv.org/pdf/2409.14331))
+
+Guangcheng Chen, **Yicheng He**, Li He & Hong Zhang
+
+- Identified radiance-color ambiguity in NeRF methods, leading to poor reconstruction of textureless or reflective objects.
+- Integrated polarization cues and a normal-based loss to enhance NeRF optimization and reconstruction quality.
 </div>
 </div>
 
