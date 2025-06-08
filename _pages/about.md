@@ -47,12 +47,32 @@ Guangcheng Chen, **Yicheng He**, Li He, Hong Zhang
 </div>
 
 # 🎖 Honors and Awards
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <div style="flex: 1; padding-right: 20px;">
+    <p>
+      <i>2021.09 – 2023.09</i>  
+      National Second/Third Prize in the <b>RoboMaster</b> National University Students' Robotics Competition.
+    </p>
+  </div>
+
+  <div style="flex: 0 0 auto;">
+    <video width="320" height="180" controls autoplay loop muted>
+      <source src="images/rm.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+</div>
+
 - *2021.09 - 2023.09* National Second/Third Prize in the **RoboMaster** National University Students' Robotics Competition.
   <div align="center">
   <video width="320" height="180" controls autoplay loop muted>
     <source src="images/rm.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+
 
 # 📖 Educations
 - *2023.09 - 2026.06 (Expected)*, M.Sc., Southern University of Science and Technology. 
