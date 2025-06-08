@@ -34,7 +34,7 @@ I am a robotics perception researcher, dedicated to enabling robots to better pe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/factor_graph.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/pisa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pisr: Polarimetric neural implicit surface reconstruction for textureless and specular objects](https://arxiv.org/pdf/2409.14331))
