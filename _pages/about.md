@@ -22,7 +22,7 @@ I am a robotics perception researcher, dedicated to enabling robots to better pe
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/factor_graph.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/ts-slam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints](https://arxiv.org/pdf/2410.08780)
@@ -37,7 +37,7 @@ I am a robotics perception researcher, dedicated to enabling robots to better pe
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/pisa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pisr: Polarimetric neural implicit surface reconstruction for textureless and specular objects](https://arxiv.org/pdf/2409.14331))
+[Pisr: Polarimetric neural implicit surface reconstruction for textureless and specular objects](https://arxiv.org/pdf/2409.14331)
 
 Guangcheng Chen, **Yicheng He**, Li He & Hong Zhang
 
@@ -47,8 +47,13 @@ Guangcheng Chen, **Yicheng He**, Li He & Hong Zhang
 </div>
 
 # 🎖 Honors and Awards
-- *2022.09* National Third Prize in the RoboMaster National University Students' Robotics Competition.
-- *2021.09* National First Prize in the National University Students' Big Data Analysis and Mining Competition.
+- *2022.09* National Third Prize in the **RoboMaster** National University Students' Robotics Competition.
+  <video width="640" height="360" controls autoplay loop muted>
+  <source src="images/rm.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  </video>
+
+- *2021.09* National Second Prize in the **RoboMaster** National University Students' Robotics Competition.
 
 # 📖 Educations
 - *2023.09 - 2026.06 (Expected)*, M.Sc., Southern University of Science and Technology. 
