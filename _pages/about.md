@@ -39,7 +39,7 @@ I am a robotics perception researcher, dedicated to enabling robots to better pe
 
 [Pisr: Polarimetric neural implicit surface reconstruction for textureless and specular objects](https://arxiv.org/pdf/2409.14331)
 
-Guangcheng Chen, **Yicheng He**, Li He & Hong Zhang
+Guangcheng Chen, **Yicheng He**, Li He, Hong Zhang
 
 - Identified radiance-color ambiguity in NeRF methods, leading to poor reconstruction of textureless or reflective objects.
 - Integrated polarization cues and a normal-based loss to enhance NeRF optimization and reconstruction quality.
@@ -47,13 +47,12 @@ Guangcheng Chen, **Yicheng He**, Li He & Hong Zhang
 </div>
 
 # 🎖 Honors and Awards
-- *2022.09* National Third Prize in the **RoboMaster** National University Students' Robotics Competition.
-  <video width="640" height="360" controls autoplay loop muted>
-  <source src="images/rm.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+- *2021.09 - 2023.09* National Second/Third Prize in the **RoboMaster** National University Students' Robotics Competition.
+  <div align="center">
+  <video width="320" height="180" controls autoplay loop muted>
+    <source src="images/rm.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
-
-- *2021.09* National Second Prize in the **RoboMaster** National University Students' Robotics Competition.
 
 # 📖 Educations
 - *2023.09 - 2026.06 (Expected)*, M.Sc., Southern University of Science and Technology. 
