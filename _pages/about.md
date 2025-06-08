@@ -60,18 +60,11 @@ Guangcheng Chen, **Yicheng He**, Li He, Hong Zhang
   <!-- 右侧文字 -->
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin: 0;">
-      <b>- <i>2021.09 – 2023.09</i></b><br>
-      National Second/Third Prize in the <b>RoboMaster</b> National University Students' Robotics Competition.
+      <b><i>2021.09 – 2023.09</i></b><br>
+      National Second / Third Prize in the <b>RoboMaster</b> National University Students' Robotics Competition.
     </p>
   </div>
 </div>
-
-- *2021.09 - 2023.09* National Second/Third Prize in the **RoboMaster** National University Students' Robotics Competition.
-  <div align="center">
-  <video width="320" height="180" controls autoplay loop muted>
-    <source src="images/rm.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
 
 
 # 📖 Educations
