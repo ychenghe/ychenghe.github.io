@@ -48,15 +48,8 @@ Guangcheng Chen, **Yicheng He**, Li He, Hong Zhang
 
 # 🎖 Honors and Awards
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-  <div style="flex: 1; padding-right: 20px;">
-    <p>
-      <i>2021.09 – 2023.09</i>  
-      National Second/Third Prize in the <b>RoboMaster</b> National University Students' Robotics Competition.
-    </p>
-  </div>
-
+<div style="display: flex; align-items: center; margin-bottom: 1.5em;">
+  <!-- 左侧视频 -->
   <div style="flex: 0 0 auto;">
     <video width="320" height="180" controls autoplay loop muted>
       <source src="images/rm.mp4" type="video/mp4">
@@ -64,6 +57,13 @@ Guangcheng Chen, **Yicheng He**, Li He, Hong Zhang
     </video>
   </div>
 
+  <!-- 右侧文字 -->
+  <div style="flex: 1; padding-left: 20px;">
+    <p style="margin: 0;">
+      <b>- <i>2021.09 – 2023.09</i></b><br>
+      National Second/Third Prize in the <b>RoboMaster</b> National University Students' Robotics Competition.
+    </p>
+  </div>
 </div>
 
 - *2021.09 - 2023.09* National Second/Third Prize in the **RoboMaster** National University Students' Robotics Competition.
